@@ -7,7 +7,7 @@
 </a>
 </div>
 <br />
-<div align="center"><strong>Smoking hot  Notifications for React.</strong></div>
+<div align="center"><strong>Smoking hot  Notifications for React..</strong></div>
 <div align="center"> Lightweight, customizable and beautiful by default.</div>
 <br />
 <div align="center">
